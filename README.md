@@ -23,3 +23,9 @@
 
 ## Концептуальная модель
 ![image](https://github.com/fsocietyV/Monitor_Diplom/assets/72657447/da08ba15-4749-46f3-8d35-93add5b3d23f)
+
+## Блок схема
+![image](https://github.com/fsocietyV/Monitor_Diplom/assets/72657447/46ed48e5-5e16-40af-91a2-6a359dddb316)
+
+## Пояснительная модель
+![image](https://github.com/fsocietyV/Monitor_Diplom/assets/72657447/7eb1ca4c-a458-4629-a4ba-95b462aa7d22)
