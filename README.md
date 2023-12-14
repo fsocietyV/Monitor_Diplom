@@ -13,3 +13,5 @@
 ## https://bdu.fstec.ru/vul?sort=datv
 
 ## https://cwe.mitre.org/data/index.html
+
+## https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&search_type=all&isCpeNameSearch=false
